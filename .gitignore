@@ -1,5 +1,1 @@
-# MongoDB connection URI
-MONGO_URI=mongodb://localhost:27017
-
-# GreyNoise RIOT API URL (default is public endpoint, no API key required)
-GREYNOISE_RIOT_URL=https://viz.greynoise.io/riot
+.env
